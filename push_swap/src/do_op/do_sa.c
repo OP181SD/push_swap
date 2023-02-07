@@ -14,7 +14,6 @@
 #include "libft.h"
 #include "ft_printf.h"
 
-// modifiy the adress of a to swap
 void do_sa(t_stack **a, char *label)
 {
 	int tmp;
